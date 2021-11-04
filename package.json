@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "connect": "^3.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "week2_connect",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "301153456",
+  "license": "ISC",
+  "description": ""
+}
